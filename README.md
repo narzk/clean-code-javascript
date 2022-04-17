@@ -25,6 +25,9 @@ Software engineering principles, from Robert C. Martin's book
 adapted for JavaScript. This is not a style guide. It's a guide to producing
 [readable, reusable, and refactorable](https://github.com/ryanmcdermott/3rs-of-software-architecture) software in JavaScript.
 
+اصول مهندسی نرم افزار، از کتاب رابرت سی مارتین
+_Clean Code_ سازگار با جاوا اسکریپت. این یک راهنمای سبک نیست. این راهنمای تولید نرم‌افزار قابل خواندن، قابل استفاده مجدد و قابل بازسازی در جاوا اسکریپت است.
+
 Not every principle herein has to be strictly followed, and even fewer will be
 universally agreed upon. These are guidelines and nothing more, but they are
 ones codified over many years of collective experience by the authors of
